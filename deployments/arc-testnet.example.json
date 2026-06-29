@@ -1,0 +1,9 @@
+{
+  "network": "Arc Testnet",
+  "chainId": 5042002,
+  "rpcUrl": "https://rpc.testnet.arc.network",
+  "explorerUrl": "https://testnet.arcscan.app",
+  "usdcErc20": "0x3600000000000000000000000000000000000000",
+  "escrowContract": "PASTE_DEPLOYED_ARCPROOF_ESCROW_ADDRESS_HERE",
+  "notes": "USDC ERC-20 uses 6 decimals; native USDC gas uses 18 decimals."
+}
