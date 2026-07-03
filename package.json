@@ -21,3 +21,6 @@
     "vite": "latest"
   }
 }
+"engines": {
+  "node": ">=18 <=22"
+},
